@@ -1,0 +1,2 @@
+base_url: <local URL in quotes>
+temperature_item_name: <openHAB item name>
